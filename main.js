@@ -4,6 +4,10 @@ const myBoxes = document.getElementsByClassName('block');
 //The Functionality
 function loopThrough() {
 
+
+  for(let i=0; i < this.textContent.length; i++) {
+    
+  }
 };
 
 
